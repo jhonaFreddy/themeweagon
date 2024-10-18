@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
         className={`${geistSans.variable} ${geistMono.variable} antialiased`} 
       >
         <div
-          className="absolute top-0 left-0 w-40 h-40 bg-no-repeat bg-center z-0 "
+          className="absolute top-0 left-0 w-10 h-10 bg-no-repeat bg-center z-0 "
           style={{
             backgroundImage: `url('background_elements.png')`,
             backgroundSize: 'cover', 
