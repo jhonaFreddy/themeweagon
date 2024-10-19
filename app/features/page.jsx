@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function page() {
     return (
-        <div className='flex flex-col gap-5 p-5'>
+        <div className='flex flex-col gap-5 p-5 bg-gray-50'>
             <div className="relative z-10 flex flex-col items-center text-center p-2 ">
                 <h1 className="text-4xl font-bold">
                     Features
